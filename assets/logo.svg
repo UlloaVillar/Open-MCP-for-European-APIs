@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240" role="img" aria-labelledby="title desc">
+  <title id="title">Open MCP for European APIs - Logo</title>
+  <desc id="desc">Minimalist EU-style logo with a deep blue circular symbol containing 12 golden dots arranged in a ring, and the text Open MCP for European APIs.</desc>
+  <defs>
+    <style><![CDATA[
+      .title { font-family: Montserrat, Arial, Helvetica, sans-serif; font-weight: 700; fill: #003399; }
+      .subtitle { font-family: Montserrat, Arial, Helvetica, sans-serif; font-weight: 400; fill: #444444; }
+    ]]></style>
+  </defs>
+
+  <!-- Symbol -->
+  <g transform="translate(100,120)">
+    <circle cx="0" cy="0" r="70" fill="#003399"/>
+    <!-- 12 golden dots arranged in a circle -->
+    <g fill="#FFCC00">
+      <!-- Generate 12 positions at 30-degree intervals -->
+      <!-- We'll manually place them for portability -->
+      <circle cx="0" cy="-50" r="6"/>
+      <circle cx="25" cy="-43.3" r="6"/>
+      <circle cx="43.3" cy="-25" r="6"/>
+      <circle cx="50" cy="0" r="6"/>
+      <circle cx="43.3" cy="25" r="6"/>
+      <circle cx="25" cy="43.3" r="6"/>
+      <circle cx="0" cy="50" r="6"/>
+      <circle cx="-25" cy="43.3" r="6"/>
+      <circle cx="-43.3" cy="25" r="6"/>
+      <circle cx="-50" cy="0" r="6"/>
+      <circle cx="-43.3" cy="-25" r="6"/>
+      <circle cx="-25" cy="-43.3" r="6"/>
+    </g>
+  </g>
+
+  <!-- Text -->
+  <g transform="translate(200,100)">
+    <text class="title" x="0" y="0" font-size="48">Open MCP</text>
+    <text class="subtitle" x="0" y="40" font-size="24">for European APIs</text>
+  </g>
+</svg>
+
+
