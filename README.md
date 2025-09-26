@@ -1,5 +1,7 @@
 <img src="assets/logo.svg" alt="Open MCP for European APIs" width="200" />
 
+[![CI](https://github.com/UlloaVillar/Open-MCP-for-European-APIs/actions/workflows/ci.yml/badge.svg)](https://github.com/UlloaVillar/Open-MCP-for-European-APIs/actions/workflows/ci.yml)
+
 ## Open MCP for European APIs
 
 **Open-source MCP servers for European public APIs – reproducible, documented, and accessible.**
