@@ -8,6 +8,16 @@
 
 This repository is the skeleton for the “Open MCP for European APIs” project (NGI Zero Commons Fund). It aims to provide a clean, reproducible, and well-documented starting point to implement MCP servers integrating European public APIs.
 
+## 🌍 Vision & Commons Alignment
+
+This project goes beyond code. Open MCP for European APIs is part of the European Digital Commons movement:
+- **Strengthens EU digital sovereignty** by providing an open, reproducible alternative to vendor-locked infrastructures.
+- **Empowers developers, SMEs and civic-tech groups** with accessible MCP servers for Eurostat, ECB, Open Meteo and more.
+- **Supports NGI Zero Commons goals** by ensuring all results (code, Docker images, docs) are open, auditable, and community-driven.
+- **Fosters democratic access to public data**, lowering barriers so citizens and institutions can build new services on top of European APIs.
+
+By combining reproducible engineering with a commons-first approach, this repo aligns with the **NGI mission for a human-centric, open and trustworthy Internet**.
+
 ### Deliverables
 - **Base MCP server**: minimal FastAPI service and structure ready for integrations.
 - **Initial integrations**: 2–3 candidates (Open Meteo, ECB, Eurostat) as placeholders.
