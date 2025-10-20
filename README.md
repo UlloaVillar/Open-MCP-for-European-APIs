@@ -6,7 +6,7 @@
 
 **Open-source MCP servers for European public APIs – reproducible, documented, and accessible.**
 
-This repository is the skeleton for the “Open MCP for European APIs” project (NGI Zero Commons Fund). It aims to provide a clean, reproducible, and well-documented starting point to implement MCP servers integrating European public APIs.
+This repository is the skeleton for the “Open MCP for European APIs” project, submitted to the NGI Zero Commons Fund.. It aims to provide a clean, reproducible, and well-documented starting point to implement MCP servers integrating European public APIs.
 
 ## 🌍 Vision & Commons Alignment
 
